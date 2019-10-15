@@ -2,7 +2,7 @@ This is my complete java application file...  Hello Git..!!!
 
 class HelloGit
 {
-	main()
+	public static void main()
 	{
 System.out.prinltn("Welcome to git");
 }
