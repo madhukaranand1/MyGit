@@ -2,6 +2,10 @@
 
 class HelloGit
 {
+	myMethod()
+	{
+		sysout("My Method");
+	}
 	public static void main(String args[])
 	{
 
